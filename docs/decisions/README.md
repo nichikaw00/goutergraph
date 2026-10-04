@@ -53,4 +53,4 @@ ADR は、後から見ても理由が必要な長期判断を残す。現在の�
 
 ## Index
 
-まだ ADR はない。最初の技術選定時に ADR-0001 から作成する。
+- [ADR-0001: MVP をレスポンシブ Web アプリ／PWA として提供する](0001-responsive-web-pwa.md) — Accepted
